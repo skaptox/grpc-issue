@@ -1,0 +1,40 @@
+{
+  "name": "create-next-example-app",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "acorn": "^6.2.0",
+    "antd": "^3.20.1",
+    "babel-plugin-import": "^1.12.0",
+    "firebase": "^6.2.4",
+    "grpc": "^1.21.1",
+    "isomorphic-unfetch": "3.0.0",
+    "less": "^3.9.0",
+    "less-vars-to-js": "^1.3.0",
+    "next": "^9.0.0",
+    "next-images": "^1.1.2",
+    "next-redux-wrapper": "^3.0.0-alpha.3",
+    "next-seo": "^1.12.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-alice-carousel": "^1.15.1",
+    "react-dom": "^16.8.6",
+    "react-infinite-scroller": "^1.2.4",
+    "react-redux": "^7.1.0",
+    "react-share": "^3.0.0",
+    "redux": "^4.0.2",
+    "regenerator-runtime": "^0.13.2",
+    "reqwest": "^2.0.5",
+    "xhr2": "^0.2.0"
+  },
+  "devDependencies": {
+    "@zeit/next-less": "^1.0.1",
+    "@zeit/webpack-asset-relocator-loader": "^0.5.5"
+  }
+}
